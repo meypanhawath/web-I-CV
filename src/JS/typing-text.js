@@ -1,7 +1,7 @@
 const typedTextSpan = document.getElementById("typing-text");
 const cursor = document.querySelector(".cursor");
 
-const words = ["Frontend Developer", "just a chill guy"];
+const words = ["Frontend Developer", "just a chill guy", "No AI generated", "100% made by humant"];
 const typingDelay = 50;
 const erasingDelay = 50;
 const newLetterDelay = 2000;
